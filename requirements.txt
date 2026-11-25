@@ -1,0 +1,4 @@
+networkx==3.6.1
+scikit-learn==1.8.0
+matplotlib==3.10.8
+numpy>=1.24
