@@ -1,0 +1,8 @@
+test_cobertura (test_rotas.TestRotas.test_cobertura) ... ok
+test_mao_unica (test_rotas.TestRotas.test_mao_unica) ... ok
+test_menor_tempo (test_rotas.TestRotas.test_menor_tempo) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.005s
+
+OK
