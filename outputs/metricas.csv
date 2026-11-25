@@ -1,0 +1,4 @@
+cenario,km,min_total,min_conclusao,atrasos,custo
+Manual,57.34,236.17,119.54,7,12.61
+A* + vizinho,39.21,178.13,96.72,5,8.63
+K-Means + A*,26.5,132.93,71.07,4,5.83
