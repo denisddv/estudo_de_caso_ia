@@ -1,0 +1,28 @@
+[
+  {
+    "cenario": "Manual",
+    "km": 57.34,
+    "min_total": 236.17,
+    "min_conclusao": 119.54,
+    "atrasos": 7,
+    "custo": 12.61
+  },
+  {
+    "cenario": "A* + vizinho",
+    "km": 39.21,
+    "min_total": 178.13,
+    "min_conclusao": 96.72,
+    "atrasos": 5,
+    "custo": 8.63
+  },
+  {
+    "cenario": "K-Means + A*",
+    "km": 26.5,
+    "min_total": 132.93,
+    "min_conclusao": 71.07,
+    "atrasos": 4,
+    "custo": 5.83
+  }
+]
+Validação A* x Dijkstra: OK
+{'BFS': {'path': ['D', 'G', 'J'], 'min': 16.014000000000003}, 'DFS': {'path': ['D', 'A', 'B', 'C', 'E', 'K', 'G', 'H', 'J'], 'min': 51.574}, 'A*': {'path': ['D', 'G', 'J'], 'min': 16.014000000000003}}
